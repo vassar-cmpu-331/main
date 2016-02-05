@@ -40,4 +40,7 @@
       <mirrorOf>central</mirrorOf>
     </mirror>
   </mirrors>
+  <pluginGroups>
+    <pluginGroup>org.anc.maven.plugins</pluginGroup>
+  </pluginGroups>
 </settings>
